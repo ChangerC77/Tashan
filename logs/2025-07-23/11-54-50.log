@@ -1,0 +1,17 @@
+2025-07-23 11:54:50.901265 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:50.916844 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:51.228287 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:51.344039 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:51.359549 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:51.680993 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:51.796706 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:51.812249 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:52.113235 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:52.228940 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:52.244500 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:52.586370 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:52.702052 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:52.717667 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:53.043356 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:53.159066 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:53.174665 [INFO] class_ch341.py -                 init(100): ch341加载成功

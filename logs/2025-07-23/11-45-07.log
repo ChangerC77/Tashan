@@ -1,0 +1,176 @@
+2025-07-23 11:45:07.833743 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:07.849397 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:08.186301 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:08.301951 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:08.317500 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:08.623575 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:08.739365 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:08.754994 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:09.097247 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:09.212836 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:09.228434 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:09.590985 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:09.706758 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:09.722377 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:10.064298 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:10.180053 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:10.195561 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:10.496672 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:10.612447 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:10.628050 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:10.923466 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:11.039266 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:11.054938 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:11.366320 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:11.482023 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:11.497614 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:11.818911 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:11.934695 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:11.950307 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:12.266982 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:12.382752 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:12.398355 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:12.735279 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:12.851053 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:12.866591 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:13.198438 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:13.314137 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:13.329741 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:13.656445 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:13.772224 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:13.787779 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:14.119560 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:14.235336 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:14.250948 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:14.557281 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:14.673017 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:14.688645 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:15.005298 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:15.121000 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:15.136559 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:15.517892 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:15.633652 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:15.649250 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:15.996599 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:16.112360 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:16.127900 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:16.444112 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:16.559816 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:16.575436 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:16.901752 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:17.017433 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:17.032982 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:17.359419 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:17.475115 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:17.490727 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:17.796760 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:17.912539 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:17.928140 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:18.259309 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:18.375075 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:18.390676 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:18.717306 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:18.832948 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:18.848552 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:19.180085 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:19.295807 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:19.311409 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:19.657751 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:19.773222 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:19.788578 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:20.125029 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:20.240621 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:20.256139 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:20.387419 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:20.492877 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:20.498176 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:20.835238 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:20.950942 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:20.966551 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:21.275113 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:21.390535 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:21.405955 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:21.745643 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:21.861279 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:21.876730 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:22.180646 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:22.296158 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:22.311541 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:22.650702 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:22.766378 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:22.781855 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:23.202262 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:23.317832 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:23.333419 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:23.706932 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:23.822568 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:23.837933 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:24.184080 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:24.299665 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:24.315201 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:24.657184 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:24.772796 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:24.788415 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:25.125284 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:25.240899 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:25.256491 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:25.587843 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:25.703515 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:25.719122 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:26.045822 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:26.161479 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:26.176932 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:26.547405 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:26.663045 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:26.678669 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:26.994984 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:27.110762 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:27.126326 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:27.472202 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:27.587832 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:27.603345 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:27.904121 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:28.019933 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:28.035462 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:28.372187 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:28.487983 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:28.503502 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:28.814643 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:28.930365 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:28.945965 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:29.282798 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:29.398578 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:29.414216 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:29.719614 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:29.835409 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:29.851015 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:30.167468 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:30.283235 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:30.298782 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:30.629672 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:30.745466 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:30.761072 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:31.122778 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:31.238569 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:31.254189 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:31.615506 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:31.731153 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:31.746751 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:32.099023 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:32.214687 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:32.230179 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:32.605168 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:32.720799 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:32.736362 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:33.096253 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:33.211825 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:33.227328 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:33.617280 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:33.732910 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:33.748451 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:34.100731 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:34.216547 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:34.232103 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:45:34.647556 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:45:34.763205 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/capRead_Python-win&Linux-64bit-2025-05-07/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:45:34.778816 [INFO] class_ch341.py -                 init(100): ch341加载成功

@@ -1,0 +1,21 @@
+2025-07-23 11:54:33.724971 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:33.740606 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:34.056661 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:34.172436 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:34.182904 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:34.483778 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:34.599471 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:34.615038 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:34.921154 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:35.036610 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:35.051992 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:35.352177 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:35.467897 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:35.483464 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:35.824956 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:35.940630 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:35.956223 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:36.266539 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
+2025-07-23 11:54:36.382104 [INFO] class_ch341.py -                 init(71): 运行在开发环境中。尝试从脚本目录相对路径加载库: /home/tars/Tashan/lib/ch341/CH341PAR_LINUX/lib/x64/dynamic/libch347.so
+2025-07-23 11:54:36.397694 [INFO] class_ch341.py -                 init(100): ch341加载成功
+2025-07-23 11:54:36.748975 [ERROR] class_ch341.py -                 open(137): No CH341 device found on Linux.
