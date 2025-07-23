@@ -63,6 +63,33 @@ mkdir -p /lib/modules/5.15.0-139-generic/kernel/drivers/usb/misc || true
 cp -f ./ch34x_pis.ko /lib/modules/5.15.0-139-generic/kernel/drivers/usb/misc/ || true
 depmod -a
 ```
+### 组权限
+对于`linux`用户，需要将`ch341`添加到`udev`规则（普通用户也可以访问`ch341`设备），或者使用`sudo`权限来运行程序（不推荐）
+#### 1. 将用户添加到dialout组
+查看 dialout 组的成员，如果不包含当前用户则需要将用户添加到 dialout 组，`“john”`替换为你想要添加到组的用户名
+```
+# 查看 dialout 组的成员
+getent group dialout
+ 
+# 将用户 'john' 添加到 dialout 组
+sudo usermod -a -G dialout john
+```
+#### 2. 创建rules文件
+在 /etc/udev/rules.d/ 目录下创建一个新的规则文件
+```
+cd /etc/udev/rules.d/
+vim ch341.rules
+```
+例如 `ch341.rules`，添加如下内容：
+```
+SUBSYSTEM=="usbmisc", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="5512", MODE="0666", GROUP="dialout"
+```
+`idVendor`和`idProduct`是`CH341`设备的供应商和产品ID，可以通过`lsusb`命令查找这些ID
+#### 3. 更新规则文件
+```
+sudo udevadm control --reload-rules
+sudo udevadm trigger
+```
 ### read data
 ```
 cd ~/Tashan
@@ -80,4 +107,14 @@ output
 2025-07-23 14:17:00.741512 [INFO] test.py -                 fingerReadHandle(21): tfDir[1] = 65535
 2025-07-23 14:17:00.741532 [INFO] test.py -                 fingerReadHandle(22): sProxCapData = [0, 0]
 2025-07-23 14:17:00.741557 [INFO] test.py -                 fingerReadHandle(23): mProxCapData = [0]
+```
+* capChannelDat为电容通道原始值
+* nf、tf、tfDir分别为一组三维力的法向力、切向力和切向力方向
+* sProxCapData为自电容接近值
+* mProxCapData为互电容接近值
+
+## 连接手指数量设定
+手指连接板最大支持5个传感器连接，不足5个传感器连接会影响读取频率，可以修改如下宏定义配置连接数量：
+```
+DEF_MAX_FINGER_NUM = 2 # 需要连接的手指数量，最大5个
 ```
